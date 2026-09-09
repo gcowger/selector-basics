@@ -49,3 +49,7 @@ h1 {
     color: #fc6512;
 }
 
+article {
+    max-width: 750px;
+    margin: 0 auto;
+}

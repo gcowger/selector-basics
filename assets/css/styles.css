@@ -45,5 +45,7 @@ h1 {
     padding: 20px;    
 }
 
-
+.note strong {
+    color: #fc6512;
+}
 

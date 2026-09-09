@@ -66,5 +66,6 @@ h1+p {
     height: auto;
     float: left;
     margin-right: 25px;
+    margin-left: 0px;
     
 }

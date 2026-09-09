@@ -10,7 +10,6 @@ p {
     color: rgba(255, 255, 255, 0.6);
     font-size:1em;
     font-family: "Varela Round", Arial, Helvetica, sans-serif;
-
 }
 
 h1, h2, h3 {
@@ -19,12 +18,10 @@ h1, h2, h3 {
     border-bottom: 2px solid rgb(86, 185, 178);
     padding-top: 10px;
     padding-bottom: 10px;
-
 }
 
 h1 {
     font-size: 3em;
-
 }
 
 #logo {
@@ -39,7 +36,14 @@ h1 {
     padding: 10px;
 }
 
-
+.note {
+    color: black;
+    border: 2px solid white;
+    background-color: rgb(69,189,102);
+    margin-top: 25px;
+    margin-bottom: 35px;
+    padding: 20px;    
+}
 
 
 

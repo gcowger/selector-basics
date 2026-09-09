@@ -53,3 +53,9 @@ article {
     max-width: 750px;
     margin: 0 auto;
 }
+
+h1+p {
+    color: rgb(255,255,255);
+    font-size: 1.2em;
+    line-height: 180%;
+}
